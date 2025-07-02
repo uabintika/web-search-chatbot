@@ -14,5 +14,5 @@ A Streamlit chatbot that uses the OpenAI Agents SDK and a DuckDuckGo search tool
 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/web-search-chatbot.git
+git clone https://github.com/uabintika/web-search-chatbot.git
 cd web-search-chatbot
